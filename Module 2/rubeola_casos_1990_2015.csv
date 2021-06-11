@@ -1,7 +1,4 @@
-SÍNDROME DA RUBÉOLA CONGÊNITA - Casos confirmados OU COMPATÍVEIS notificados - Brasil
-Casos confirmados por Ano Diagnóstico e UF de notificação
-Período:2007-2015
-"Ano Diagnóstico";"RO";"PA";"AP";"TO";"MA";"CE";"RN";"PB";"PE";"AL";"BA";"MG";"ES";"RJ";"SP";"PR";"RS";"MT";"GO";"DF";"Total"
+"Ano DiagnÃ³stico";"RO";"PA";"AP";"TO";"MA";"CE";"RN";"PB";"PE";"AL";"BA";"MG";"ES";"RJ";"SP";"PR";"RS";"MT";"GO";"DF";"Total"
 "1990";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1
 "1997";-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;1
 "2004";-;-;-;-;-;-;-;-;-;-;-;-;-;-;1;-;-;-;-;-;1
@@ -15,22 +12,22 @@ Período:2007-2015
 "2014";-;-;-;1;-;-;-;-;-;-;-;-;-;-;-;-;-;1;1;-;3
 "2015";-;-;2;-;-;-;-;-;-;-;1;-;-;-;4;-;-;-;1;-;8
 "Total";1;3;2;1;3;4;1;3;1;1;4;7;2;6;56;1;8;3;6;9;122
- Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Fonte: MinistÃ©rio da SaÃºde/SVS - Sistema de InformaÃ§Ã£o de Agravos de NotificaÃ§Ã£o - Sinan Net
  Notas:
  
-  Excluídos casos não residentes no Brasil.
-  Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
-  Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável de interesse, na Coluna Ano do diagnóstico;
-     em Períodos Disponíveis assinale o ano inicial da série e todos os posteriores até o ano atual (p/ incluir casos notificados
-     com atraso) e em Seleções Disponíveis assinale os anos do diagnóstico (ex: nº de casos 2007:selecione na linha UF de residência,
-     na Coluna Ano do diagnóstico, em Períodos disponíveis 2007 até o ano atual e em Seleções assinale Ano do diagnóstico de 2007).
-  Para cálculo da incidência utilize locais de residência.
+  ExcluÃ­dos casos nÃ£o residentes no Brasil.
+  PerÃ­odos DisponÃ­veis ou perÃ­odo - Correspondem aos anos de notificaÃ§Ã£o dos casos.
+  Para tabular dados epidemiolÃ³gicos de um determinado ano selecione na linha a variÃ¡vel de interesse, na Coluna Ano do diagnÃ³stico;
+     em PerÃ­odos DisponÃ­veis assinale o ano inicial da sÃ©rie e todos os posteriores atÃ© o ano atual (p/ incluir casos notificados
+     com atraso) e em SeleÃ§Ãµes DisponÃ­veis assinale os anos do diagnÃ³stico (ex: nÂº de casos 2007:selecione na linha UF de residÃªncia,
+     na Coluna Ano do diagnÃ³stico, em PerÃ­odos disponÃ­veis 2007 atÃ© o ano atual e em SeleÃ§Ãµes assinale Ano do diagnÃ³stico de 2007).
+  Para cÃ¡lculo da incidÃªncia utilize locais de residÃªncia.
   Dados de 2008 atualizados em 27/03/2010.
   Dados de 2009 atualizados em 01/08/2011.
   Dados de 2010 atualizados em 19/12/2012.
   Dados de 2011 atualizados em 30/01/2014.
   Dados de 2012 atualizados em 22/06/2015.
-  Dados de 2013 atualizados em 02/10/2015, sujeitos à revisão.
-  Dados de 2014 atualizados em 02/10/2015, sujeitos à revisão.
-  Dados de 2015 atualizados em 02/10/2015, sujeitos à revisão.
+  Dados de 2013 atualizados em 02/10/2015, sujeitos Ã  revisÃ£o.
+  Dados de 2014 atualizados em 02/10/2015, sujeitos Ã  revisÃ£o.
+  Dados de 2015 atualizados em 02/10/2015, sujeitos Ã  revisÃ£o.
  
