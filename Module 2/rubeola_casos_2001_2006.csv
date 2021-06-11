@@ -1,0 +1,23 @@
+SÍNDROME DA RUBÉOLA CONGÊNITA - Casos confirmados OU COMPATÍVEIS notificados no Sinan - Brasil
+Casos confirmados por Ano Diagnóstico e UF de residência
+Período:2001-2006
+"Ano Diagnóstico";"RO";"AC";"AM";"PA";"AP";"TO";"MA";"PI";"CE";"RN";"PB";"PE";"AL";"BA";"MG";"RJ";"SP";"PR";"SC";"RS";"MS";"MT";"GO";"Total"
+"2001";1;15;1;6;-;3;6;-;4;5;2;5;1;-;4;2;45;-;2;2;1;1;2;108
+"2002";-;1;1;1;-;-;-;3;-;1;-;4;2;2;1;6;21;-;-;-;-;2;1;46
+"2003";-;-;1;1;-;-;1;1;1;1;-;1;-;-;1;5;13;1;-;1;-;-;1;29
+"2004";-;-;-;1;-;-;1;-;1;-;-;-;-;3;1;4;8;-;-;-;-;-;3;22
+"2005";1;-;-;-;-;-;-;-;1;-;-;-;-;1;1;-;6;-;-;-;-;-;-;10
+"2006";-;-;-;1;1;-;2;-;-;-;-;1;-;1;-;2;4;-;-;-;2;-;-;14
+"Total";2;16;3;10;1;3;10;4;7;7;2;11;3;7;8;19;97;1;2;3;3;3;7;229
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan 
+ Notas:
+ 
+ Excluídos casos não residentes no Brasil
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para tabular dados em série histórica selecione na linha a variável de interesse, na Coluna Ano do diagnóstico;
+    em Períodos Disponíveis assinale o ano inicial da série e todos os posteriores até o ano atual (p/ incluir casos
+    notificados com atraso) e em Seleções Disponíveis assinale os anos do diagnóstico (ex: série histórica de nº de casos,
+    2001 a 2005:selecione na linha UF de residência, na Coluna Ano do diagnóstico, em Períodos disponíveis-2001 até o ano
+    atual e em Seleções assinale Ano do diagnóstico de 2001 a 2005).
+ Para cálculo da incidência utilize locais de residência.
+ 
