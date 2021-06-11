@@ -1,7 +1,3 @@
- Imunizações - Cobertura - Brasil
-Coberturas Vacinais por Ano e Unidade da Federação
-Imuno: 021 Tríplice Viral  D1, 098 Tríplice Viral  D2, 097 Tetra Viral(SRC+VZ)
-Período:1994-2019
 "Ano";"RO";"AC";"AM";"RR";"PA";"AP";"TO";"MA";"PI";"CE";"RN";"PB";"PE";"AL";"SE";"BA";"MG";"ES";"RJ";"SP";"PR";"SC";"RS";"MS";"MT";"GO";"DF";"Total"
 "1999";...;...;...;...;...;...;...;...;...;...;...;...;...;...;...;...;...;...;...;...;...;...;...;...;...;...;134,17;6692,10
 "2000";17,15;27,55;14,84;25,35;10,14;5,25;0,17;82,66;72,25;85,19;46,55;67,12;29,21;11,13;94,08;76,30;92,70;68,74;89,41;105,38;91,12;95,57;79,75;114,77;61,41;82,19;101,96;77,50
@@ -25,22 +21,3 @@ Período:1994-2019
 "2018";78,39;71,40;75,52;89,83;60,64;63,99;77,92;51,27;52,47;69,41;54,56;58,42;61,60;65,70;56,03;49,51;63,53;60,67;59,36;69,53;79,73;81,01;80,13;93,28;77,49;74,30;86,14;66,95
 "2019";50,61;46,74;51,87;50,08;39,74;45,31;55,20;31,12;32,99;43,27;29,90;37,87;39,01;38,49;36,76;29,36;41,09;38,79;23,54;45,39;59,73;58,67;55,04;53,33;49,96;50,88;58,35;42,68
 "Total";92,75;73,49;78,26;82,78;76,17;79,51;81,36;80,88;79,11;96,67;77,51;84,15;83,37;79,34;86,47;84,28;88,40;88,03;85,04;89,94;91,94;92,17;85,04;94,17;89,15;89,61;91,84;86,67
- Fonte: Programa Nacional de Imunizações
- Notas:
- 
- 
-Data de atualização dos dados: 04/09/2019
- 
- 
-Os dados apresentados em 2013 se referem à soma dos seguintes dados:
-
-Até Junho de 2013: dados do API DOS
-A partir de Julho de 2013: APIWEB + SIPNI Web  (exceção UFs: AC, CE, DF , GO , MS, MT, PA, PR, RJ, SE, MA e TO por digitação duplicada)
-Base de dados do ano de 2013 foi encerrada em 23/03/2015.
-Doses aplicadas durante o MRC (pneumo 10 e meningo C) e Multivacinação
-
- 
-2014:
-
-Dados do ano de 2014 são parciais. Referem-se ao recebimento das informações do APIWEB + SIPNI até a data de 23/03/2015.
-
